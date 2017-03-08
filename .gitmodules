@@ -1,0 +1,3 @@
+[submodule "gstudio"]
+	path = gstudio
+	url = https://github.com/gnowledge/gstudio.git
